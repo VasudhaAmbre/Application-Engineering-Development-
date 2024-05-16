@@ -72,7 +72,7 @@ A Next-Generation Hospitality and Resort Management System designed to:
 
 ## Class Diagram
 
-![Class Diagram](Resort%20Management%20Class%20Diagram.png)
+![Class Diagram](https://github.com/VasudhaAmbre/Java-Swing-Applications/blob/main/Resort%20Management%20Class%20Diagram.png)
 
 ## Object Model
 
