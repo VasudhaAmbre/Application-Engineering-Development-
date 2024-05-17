@@ -1,0 +1,2 @@
+Hospitality_Resort_Management/build/classes/images/Images_R/jdk-8u202-windows-x64.exe filter=lfs diff=lfs merge=lfs -text
+Hospitality_Resort_Management/dist/Hospitality_Resort_Management.jar filter=lfs diff=lfs merge=lfs -text
